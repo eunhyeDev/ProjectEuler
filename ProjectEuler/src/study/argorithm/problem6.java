@@ -2,6 +2,7 @@ package study.argorithm;
 
 /*
  * 2016.11.30 (eunhyeDev)
+ * 1부터 100까지 "제곱의 합"과 "합의 제곱"의 차는?
  */
 
 public class problem6 {
